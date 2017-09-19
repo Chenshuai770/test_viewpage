@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">@color/fontgray</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff </color>
+    <color name="themebac">#EEEEEE</color>
+    <color name="fontblack">#333333</color>
+    <color name="red">#fc4545</color>
+    <color name="blue">#1BADFF</color>
+    <color name="blue1">#1D9AFF</color>
+    <color name="gray">#979797</color>
+    <color name="fontgray">#999999</color>
+    <color name="xxx">#e5e5e5</color>
+    <color name="blue3">#1D9AFF</color>
+    <color name="blue4">#0074ff</color>
+    <color name="blue5">#40ABF3 </color>
+    <color name="gray2">#666666</color>
+    <color name="yello">#FECE43</color>
+    <color name="red1">#FF7B7B</color>
+    <color name="red2">#FF3E3E </color>
+    <color name="black">#0a0909</color>
+
+    <!-- 字体色 -->
+    <color name="text_title">#1b1b1b</color>
+    <color name="text_content">#818181</color>
+    <color name="text_sub">#919191</color>
+    <color name="text_hint">#c7c7c7</color>
+    <color name="text_black">#404040</color>
+</resources>
